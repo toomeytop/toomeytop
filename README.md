@@ -12,7 +12,7 @@
  
 <h1 align="center">
   <a href="https://toomey.top/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20Toomey!%22);&center=true&size=27">
   </a>
 </h1>
 
@@ -109,7 +109,7 @@ Other    1 min           ░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <a>
     <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toomeyto&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toomeytop&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
   </a>
 </p>
